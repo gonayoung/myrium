@@ -32,7 +32,7 @@
 
 <h3 align="center">Usecase Diagram</h3>
 
-![설명](images/그림1.png)
+![설명](그림1.png)
 
 <h3 align="center">ERD</h3>
 
