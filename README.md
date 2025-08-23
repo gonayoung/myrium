@@ -36,11 +36,42 @@
 
 <h3 align="center">ERD</h3>
 
-erd 다이어그램 사진
+<img width="1590" height="1060" alt="image" src="https://github.com/user-attachments/assets/5c1ef303-019c-489d-924a-ba296886ff14" />
+
 
 <h3 align="center">Class Diagram</h3>
 
-클래스 다이어그램 사진
+<img width="1932" height="747" alt="Image" src="https://github.com/user-attachments/assets/ff04d9aa-5979-4b42-b2f4-e4e0920a6e2f" />
+회원정보 
+
+<img width="1410" height="851" alt="Image" src="https://github.com/user-attachments/assets/ef7a46b7-06d0-43c5-b1a7-665b53e354d6" />
+회원가입
+
+<img width="1463" height="1016" alt="Image" src="https://github.com/user-attachments/assets/9e578550-ddb7-4059-a4a3-fdfcccc2175e" />
+아이디찾기
+
+<img width="1380" height="927" alt="Image" src="https://github.com/user-attachments/assets/7709e7de-1404-4fbb-949b-4dab8069c9d7" />
+비밀번호 찾기
+
+<img width="1281" height="1069" alt="Image" src="https://github.com/user-attachments/assets/3fbbbe04-3853-4a30-93b8-3718dfc2b60f" />
+member레스트
+
+<img width="1475" height="1119" alt="Image" src="https://github.com/user-attachments/assets/946672c0-6282-4995-8198-8277b52fb13a" />
+회원정보수정
+
+<img width="1170" height="1208" alt="Image" src="https://github.com/user-attachments/assets/3edb21a8-898d-4532-b691-fc98b2522f44" />
+마이페이지
+
+<img width="1209" height="1138" alt="Image" src="https://github.com/user-attachments/assets/5706f862-df7b-449e-bcc3-edf1ac966edd" />
+주문내역
+
+<img width="2082" height="2085" alt="Image" src="https://github.com/user-attachments/assets/9e6b32c3-8966-48cc-8800-c79a93550638" />
+리뷰
+
+<img width="1271" height="724" alt="Image" src="https://github.com/user-attachments/assets/7de8167e-2ab0-41b2-9461-00c3748f7621" />
+토탈리뷰
+
+
 
 </details>
 
