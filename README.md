@@ -4,10 +4,6 @@
 <p align="center">JSP와 Servlet 기반으로 구현된 동적 웹 프로젝트</p>
 <br/>
 
-<details><summary>아코디언 예시입니다.</summary>
-  예시 입니까?
-
-  진짜 예시입니다.
 </details>
 
 ## 📌 목차
@@ -32,7 +28,7 @@
 - API : `Kakao Book Search API`
 - ETC : `Git`
 
-<details><summary>## 🧩 프로젝트 설계</summary>
+<details><summary> 🧩 프로젝트 설계</summary>
 
 <h3 align="center">Usecase Diagram</h3>
 
@@ -48,24 +44,15 @@ erd 다이어그램 사진
 
 </details>
 
-## 🧩 프로젝트 설계
-<h3 align="center">Usecase Diagram</h3>
-
-유스케이스 다이어그램 사진
-
-<h3 align="center">ERD</h3>
-
-erd 다이어그램 사진
-
-<h3 align="center">Class Diagram</h3>
-
-클래스 다이어그램 사진
-
-
 ## 🖥️ 실행 화면 --- 동영상 파일 넣을곳
 
 ## 🗂️ PPT ---- ppt 사진 넣을곳
 
+<details><summary> 🗂️ PPT</summary>
+
+내가한 피피티 올리기
+
+</details>
 </br>
 
 ## 🚀 개선사항
