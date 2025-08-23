@@ -44,7 +44,7 @@ erd 다이어그램 사진
 
 </details>
 
-## 🖥️ 실행 화면 --- 동영상 파일 넣을곳
+## 🖥️ 실행 화면
 
 <details><summary> 🗂️ PPT</summary>
 
