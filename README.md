@@ -32,6 +32,22 @@
 - API : `Kakao Book Search API`
 - ETC : `Git`
 
+<details><summary>## 🧩 프로젝트 설계</summary>
+
+<h3 align="center">Usecase Diagram</h3>
+
+유스케이스 다이어그램 사진
+
+<h3 align="center">ERD</h3>
+
+erd 다이어그램 사진
+
+<h3 align="center">Class Diagram</h3>
+
+클래스 다이어그램 사진
+
+</details>
+
 ## 🧩 프로젝트 설계
 <h3 align="center">Usecase Diagram</h3>
 
