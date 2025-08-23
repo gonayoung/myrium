@@ -46,8 +46,6 @@ erd 다이어그램 사진
 
 ## 🖥️ 실행 화면 --- 동영상 파일 넣을곳
 
-## 🗂️ PPT ---- ppt 사진 넣을곳
-
 <details><summary> 🗂️ PPT</summary>
 
 내가한 피피티 올리기
