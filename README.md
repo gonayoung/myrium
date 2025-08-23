@@ -76,6 +76,31 @@ member레스트
 </details>
 
 ## 🖥️ 실행 화면
+![Image](https://github.com/user-attachments/assets/90462fe0-8a57-4169-ac7d-6813354dcc45)
+
+회원가입
+
+![Image](https://github.com/user-attachments/assets/520ceab0-e0f9-4362-9246-489ab66065c4)
+
+로그인
+
+![Image](https://github.com/user-attachments/assets/9d809e17-8d76-4b70-b116-5ee7663363c7)
+아이디 비밀번호찾기
+
+<!-- Failed to upload "마이페이지환불.gif" -->
+마이페이지 구매
+
+![Image](https://github.com/user-attachments/assets/ba9c1f72-1a9f-4f56-ae5d-5d0792af0020)
+상품리뷰
+
+![Image](https://github.com/user-attachments/assets/899351c1-0218-427d-ad01-f43e9b9db868)
+회원정보수정
+
+![Image](https://github.com/user-attachments/assets/a4c324c9-9387-42fb-bcda-9547266f3245)
+비밀번호 변경
+
+
+
 
 <details><summary> 🗂️ PPT</summary>
 
