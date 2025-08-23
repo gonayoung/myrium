@@ -76,7 +76,7 @@ member레스트
 </details>
 
 <details><summary>🖥️ 실행 화면</summary>
-![Image](https://github.com/user-attachments/assets/90462fe0-8a57-4169-ac7d-6813354dcc45)
+![Image](https://github.com/user-attachments/assets/4abb5015-8506-4d88-8090-dfa03419b902)
 
 회원가입
 
