@@ -32,7 +32,7 @@
 
 <h3 align="center">Usecase Diagram</h3>
 
-![설명](그림1.png)
+<img width="1128" height="790" alt="Image" src="https://github.com/user-attachments/assets/728d4a85-0932-4a82-9524-97cdfa095230" />
 
 <h3 align="center">ERD</h3>
 
