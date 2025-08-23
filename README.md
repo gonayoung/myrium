@@ -32,7 +32,7 @@
 
 <h3 align="center">Usecase Diagram</h3>
 
-유스케이스 다이어그램 사진
+![설명](images/그림1.png)
 
 <h3 align="center">ERD</h3>
 
