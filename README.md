@@ -75,7 +75,7 @@ member레스트
 
 </details>
 
-## 🖥️ 실행 화면
+<details><summary>🖥️ 실행 화면</summary>
 ![Image](https://github.com/user-attachments/assets/90462fe0-8a57-4169-ac7d-6813354dcc45)
 
 회원가입
@@ -98,8 +98,7 @@ member레스트
 
 ![Image](https://github.com/user-attachments/assets/a4c324c9-9387-42fb-bcda-9547266f3245)
 비밀번호 변경
-
-
+</details>
 
 
 <details><summary> 🗂️ PPT</summary>
