@@ -20,13 +20,13 @@
 - 개발 기간 :
 
 ## 🛠️ 기술 스택
-- Language : `JAVA(11)`, `JavaScript(1.5)`
-- Framework / Library: `JSP(JavaServer Pages)(2.3)`, `Servlet(4.0)`, `JSTL`, `JDBC`,`DBManager`,`EL`,`jQuery`
-- Database : `Mysql(8.0)`
-- Server : `Apache Tomcat(9.0.70)`
-- Tool : `Eclipse IDE (4.29.0)`
-- API : `Kakao Book Search API`
-- ETC : `Git`
+- Frontend : HTML5 , CSS3 , JavaScript , jQuery , Bootstrap
+- Backend : Java , Spring MVC 5.2 , Spring Security
+- WAS / DB : Apache Tomcat , Oracle DB
+- Data Access : MyBatis , HikariCP
+- View : JSP , JSTL
+- External API : Kakao Map API
+- Tool : GitHub , Sourcetree , ERD Cloud , Google Spreadsheet
 
 <details><summary> 🧩 프로젝트 설계</summary>
 
