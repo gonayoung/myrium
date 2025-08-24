@@ -109,8 +109,7 @@ member레스트
 
 ![Image](https://github.com/user-attachments/assets/bee88854-93c9-4e7f-88f5-1a96989f6f8b)
 
-![Image](https://github.com/user-attachments/assets/31ceb4f6-0374-40eb-b4db-28f755020da4)
-역할소개 사진 없애기
+<img width="1922" height="1085" alt="Image" src="https://github.com/user-attachments/assets/1da655c9-44a0-4a09-9287-ad5fe0b412c7" />
 
 ![Image](https://github.com/user-attachments/assets/ecf52773-ef47-49b2-8e28-25e3e8d75ee5)
 
@@ -135,7 +134,7 @@ member레스트
 ![Image](https://github.com/user-attachments/assets/50b30b7d-eaf2-4309-a257-3d5a41ec60c9)
 ![Image](https://github.com/user-attachments/assets/6b7fa854-8ec5-4733-ba29-1493f844dc66)
 ![Image](https://github.com/user-attachments/assets/34192e8d-f871-45df-a544-cd11a5f3f18e)
-![Image](https://github.com/user-attachments/assets/998f1adb-1e54-42e9-b591-f608e268e2ee)
+<img width="1924" height="1087" alt="Image" src="https://github.com/user-attachments/assets/caee1baf-e427-4ab5-ae3c-0624df4d727e" />
 
 
 ![Image](https://github.com/user-attachments/assets/2b60860d-2ac1-42fc-bb16-fae557ac1038)
