@@ -33,7 +33,8 @@
 - External API : Kakao Map API
 - Tool : GitHub , Sourcetree , ERD Cloud , Google Spreadsheet
 
-<details><summary> 🧩 프로젝트 설계</summary>
+## 🧩 프로젝트 설계
+<details><summary>펼치기/접기</summary>
 
 <h3 align="center">Usecase Diagram</h3>
 
@@ -80,7 +81,9 @@ member레스트
 
 </details>
 
-<details><summary>🖥️ 실행 화면</summary>
+
+## 🖥️ 실행 화면
+<details><summary>펼치기/접기</summary>
 
   
 ![Image](https://github.com/user-attachments/assets/4abb5015-8506-4d88-8090-dfa03419b902)
@@ -107,8 +110,8 @@ member레스트
 비밀번호 변경
 </details>
 
-
-<details><summary> 🗂️ PPT</summary>
+## 🗂️ PPT
+<details><summary> 펼치기/접기 </summary>
 
 ![Image](https://github.com/user-attachments/assets/e88a6274-824a-49df-abb1-e63b4d900bea)
 
