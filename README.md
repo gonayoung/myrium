@@ -139,13 +139,20 @@
 ![Image](https://github.com/user-attachments/assets/9d809e17-8d76-4b70-b116-5ee7663363c7)
 <br/><br/>
 
-### **[마이페이지 클레임처리]**
-<!-- Failed to upload "마이페이지환불.gif" -->
+### **[마이페이지 개별 클레임 처리]**
+![Image](https://github.com/user-attachments/assets/148ee32d-9c88-42a8-a684-cbbd2af1ac04)
+
 <br/><br/>
+
+### **[전체 클레임 및 주문내역 확인]**
+![Image](https://github.com/user-attachments/assets/426f8d20-27b9-436b-9bd1-2ed816bb60fe)
+<br/><br/>
+
 
 ### **[상품리뷰]**
 ![Image](https://github.com/user-attachments/assets/ba9c1f72-1a9f-4f56-ae5d-5d0792af0020)
 <br/><br/>
+
 
 ### **[회원정보수정]**
 ![Image](https://github.com/user-attachments/assets/899351c1-0218-427d-ad01-f43e9b9db868)
