@@ -15,6 +15,13 @@
 - [PPT](#-ppt)
 - [개선사항](#-개선사항)
 
+- [개요](https://github.com/gonayoung/myrium#-개요)
+- [기술 스택](https://github.com/gonayoung/myrium#-기술-스택)
+- [프로젝트 설계](https://github.com/gonayoung/myrium#-프로젝트-설계)
+- [실행 화면](https://github.com/gonayoung/myrium#-실행-화면)
+- [PPT](https://github.com/gonayoung/myrium#-PPT)
+- [개선사항](https://github.com/gonayoung/myrium#-개선사항)
+
 ## 📖 개요
 - 프로젝트 목표 : 마이리움 프로젝트는 요구사항 분석을 통해 핵심 기능과 데이터 구조를 정의하고, DB 설계 및 아키텍처 기획을 기반으로 Spring MVC와 MyBatis를 활용한 기능 구현과 보안 검증을 거쳐 최종적으로 안정적인 웹 서비스를 배포하는 것을 목표로 한다.
   
