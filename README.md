@@ -222,7 +222,6 @@
 ![Image](https://github.com/user-attachments/assets/465f487a-ab0a-4bf1-ae18-5a2a299ec489)
 
 </details>
-</br>
 
 ## 🚀 개선사항
 <details><summary>펼치기/접기</summary>
