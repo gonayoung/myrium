@@ -1,16 +1,18 @@
-홈 페이지 이미지 넣을곳
+
+![babysbreath_detail](https://github.com/user-attachments/assets/9f1b8e1e-73c1-4067-b591-d0db3fb503de)
+![Screenshot 2025-08-24 at 17 30 21](https://github.com/user-attachments/assets/9806a0a3-8eec-46a1-be65-47bafa622215)
 
 <h1 align="center">📚 마이리움 팀 프로젝트</h1>
 <p align="center">JSP와 Servlet 기반으로 구현된 동적 웹 프로젝트</p>
 <br/>
 
 ## 📌 목차
-- [📖 개요](#-개요)
-- [🛠️ 기술 스택](#-기술-스택)
-- [🧩 프로젝트 설계](#-프로젝트-설계)
-- [🖥️ 실행 화면](#-실행-화면)
-- [🗂️ PPT](#-PPT)
-- [🚀 개선사항](#-개선사항)
+- [개요](#-개요)
+- [기술 스택](#-기술-스택)
+- [프로젝트 설계](#-프로젝트-설계)
+- [실행 화면](#-실행-화면)
+- [PPT](#-PPT)
+- [개선사항](#-개선사항)
 
 ## 📖 개요
 - 프로젝트 목표 : 마이리움 프로젝트는 요구사항 분석을 통해 핵심 기능과 데이터 구조를 정의하고, DB 설계 및 아키텍처 기획을 기반으로 Spring MVC와 MyBatis를 활용한 기능 구현과 보안 검증을 거쳐 최종적으로 안정적인 웹 서비스를 배포하는 것을 목표로 한다.
@@ -36,44 +38,86 @@
 <h3 align="center">Usecase Diagram</h3>
 
 <img width="1128" height="790" alt="Image" src="https://github.com/user-attachments/assets/728d4a85-0932-4a82-9524-97cdfa095230" />
+<br/>
+<br/>
 
 <h3 align="center">ERD</h3>
 
 <img width="1590" height="1060" alt="image" src="https://github.com/user-attachments/assets/5c1ef303-019c-489d-924a-ba296886ff14" />
-
+<br/>
+<br/>
 
 <h3 align="center">Class Diagram</h3>
 
-<img width="1932" height="747" alt="Image" src="https://github.com/user-attachments/assets/ff04d9aa-5979-4b42-b2f4-e4e0920a6e2f" />
-회원정보 
+<p align="center">
+<p><b>[회원정보]</b></p>
+  <img width="1932" height="747" src="https://github.com/user-attachments/assets/ff04d9aa-5979-4b42-b2f4-e4e0920a6e2f" />
+</p>
+<br/>
+<br/>
 
-<img width="1410" height="851" alt="Image" src="https://github.com/user-attachments/assets/ef7a46b7-06d0-43c5-b1a7-665b53e354d6" />
-회원가입
+<p align="center">
+<p><b>[회원가입]</b></p>
+  <img width="1410" height="851" src="https://github.com/user-attachments/assets/ef7a46b7-06d0-43c5-b1a7-665b53e354d6" />
+</p>
+<br/>
+<br/>
 
-<img width="1463" height="1016" alt="Image" src="https://github.com/user-attachments/assets/9e578550-ddb7-4059-a4a3-fdfcccc2175e" />
-아이디찾기
+<p align="center">
+<p><b>[아이디 찾기]</b></p>
+  <img width="1463" height="1016" src="https://github.com/user-attachments/assets/9e578550-ddb7-4059-a4a3-fdfcccc2175e" />
+</p>
+<br/>
+<br/>
 
-<img width="1380" height="927" alt="Image" src="https://github.com/user-attachments/assets/7709e7de-1404-4fbb-949b-4dab8069c9d7" />
-비밀번호 찾기
+<p align="center">
+<p><b>[비밀번호 찾기]</b></p>
+  <img width="1380" height="927" src="https://github.com/user-attachments/assets/7709e7de-1404-4fbb-949b-4dab8069c9d7" />
+</p>
+<br/>
+<br/>
 
-<img width="1281" height="1069" alt="Image" src="https://github.com/user-attachments/assets/3fbbbe04-3853-4a30-93b8-3718dfc2b60f" />
-member레스트
+<p align="center">
+<p><b>[회원관리]</b></p>
+  <img width="1281" height="1069" src="https://github.com/user-attachments/assets/3fbbbe04-3853-4a30-93b8-3718dfc2b60f" />
+</p>
+<br/>
+<br/>
 
-<img width="1475" height="1119" alt="Image" src="https://github.com/user-attachments/assets/946672c0-6282-4995-8198-8277b52fb13a" />
-회원정보수정
+<p align="center">
+<p><b>[회원정보 수정]</b></p>
+  <img width="1475" height="1119" src="https://github.com/user-attachments/assets/946672c0-6282-4995-8198-8277b52fb13a" />
+</p>
+<br/>
+<br/>
 
-<img width="1170" height="1208" alt="Image" src="https://github.com/user-attachments/assets/3edb21a8-898d-4532-b691-fc98b2522f44" />
-마이페이지
+<p align="center">
+<p><b>[마이페이지]</b></p>
+  <img width="1170" height="1208" src="https://github.com/user-attachments/assets/3edb21a8-898d-4532-b691-fc98b2522f44" />
+</p>
+<br/>
+<br/>
 
-<img width="1209" height="1138" alt="Image" src="https://github.com/user-attachments/assets/5706f862-df7b-449e-bcc3-edf1ac966edd" />
-주문내역
+<p align="center">
+<p><b>[주문내역]</b></p>
+  <img width="1209" height="1138" src="https://github.com/user-attachments/assets/5706f862-df7b-449e-bcc3-edf1ac966edd" />
+</p>
+<br/>
+<br/>
 
-<img width="2082" height="2085" alt="Image" src="https://github.com/user-attachments/assets/9e6b32c3-8966-48cc-8800-c79a93550638" />
-리뷰
+<p align="center">
+<p><b>[리뷰]</b></p>
+  <img width="2082" height="2085" src="https://github.com/user-attachments/assets/9e6b32c3-8966-48cc-8800-c79a93550638" />
+</p>
+<br/>
+<br/>
 
-<img width="1271" height="724" alt="Image" src="https://github.com/user-attachments/assets/7de8167e-2ab0-41b2-9461-00c3748f7621" />
-토탈리뷰
-
+<p align="center">
+<p><b>[토탈리뷰]</b></p>
+  <img width="1271" height="724" src="https://github.com/user-attachments/assets/7de8167e-2ab0-41b2-9461-00c3748f7621" />
+</p>
+<br/>
+<br/>
 
 
 </details>
@@ -81,31 +125,37 @@ member레스트
 
 ## 🖥️ 실행 화면
 <details><summary>펼치기/접기</summary>
+<br/>
 
-  
+### **[회원가입]**
 ![Image](https://github.com/user-attachments/assets/4abb5015-8506-4d88-8090-dfa03419b902)
+<br/><br/>
 
-회원가입
-
+### **[로그인]**
 ![Image](https://github.com/user-attachments/assets/4b7195ff-b11f-4aeb-955c-51312b2c9ba6)
+<br/><br/>
 
-로그인
-
+### **[아이디/비밀번호 찾기]**
 ![Image](https://github.com/user-attachments/assets/9d809e17-8d76-4b70-b116-5ee7663363c7)
-아이디 비밀번호찾기
+<br/><br/>
 
+### **[마이페이지 클레임처리]**
 <!-- Failed to upload "마이페이지환불.gif" -->
-마이페이지 구매
+<br/><br/>
 
+### **[상품리뷰]**
 ![Image](https://github.com/user-attachments/assets/ba9c1f72-1a9f-4f56-ae5d-5d0792af0020)
-상품리뷰
+<br/><br/>
 
+### **[회원정보수정]**
 ![Image](https://github.com/user-attachments/assets/899351c1-0218-427d-ad01-f43e9b9db868)
-회원정보수정
+<br/><br/>
 
+### **[비밀번호 변경]**
 ![Image](https://github.com/user-attachments/assets/a4c324c9-9387-42fb-bcda-9547266f3245)
-비밀번호 변경
+<br/><br/>
 </details>
+
 
 ## 🗂️ PPT
 <details><summary> 펼치기/접기 </summary>
