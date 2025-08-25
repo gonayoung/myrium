@@ -128,38 +128,42 @@
 <br/>
 
 ### **[회원가입]**
-![Image](https://github.com/user-attachments/assets/4abb5015-8506-4d88-8090-dfa03419b902)
+![Image](https://github.com/user-attachments/assets/8d7976ac-a774-4f95-808a-7b63e924ce88)
 <br/><br/>
 
 ### **[로그인]**
-![Image](https://github.com/user-attachments/assets/4b7195ff-b11f-4aeb-955c-51312b2c9ba6)
+![Image](https://github.com/user-attachments/assets/f5a3f46e-98c2-429a-abaf-ffc6009af5ed)
 <br/><br/>
 
 ### **[아이디/비밀번호 찾기]**
-![Image](https://github.com/user-attachments/assets/9d809e17-8d76-4b70-b116-5ee7663363c7)
+![Image](https://github.com/user-attachments/assets/fa2a294b-6a58-45ba-b5d8-7ad315e2921a)
+<br/><br/>
+
+### **[마이페이지 주문내역]**
+![Image](https://github.com/user-attachments/assets/2c59c35f-c660-4647-baa0-5d5dbe7e7877)
 <br/><br/>
 
 ### **[마이페이지 개별 클레임 처리]**
-![Image](https://github.com/user-attachments/assets/148ee32d-9c88-42a8-a684-cbbd2af1ac04)
+![Image](https://github.com/user-attachments/assets/56d1fefa-8407-42a7-82b5-5a28d8e8423c)
 
 <br/><br/>
 
-### **[전체 클레임 및 주문내역 확인]**
-![Image](https://github.com/user-attachments/assets/426f8d20-27b9-436b-9bd1-2ed816bb60fe)
+### **[마이페이지 전체 클레임]**
+![Image](https://github.com/user-attachments/assets/3ba63aea-91c0-44e4-848a-fcc330a63a94)
 <br/><br/>
 
 
 ### **[상품리뷰]**
-![Image](https://github.com/user-attachments/assets/ba9c1f72-1a9f-4f56-ae5d-5d0792af0020)
+![Image](https://github.com/user-attachments/assets/4d97880b-a2cb-46cd-a56f-8b44752f76ab)
 <br/><br/>
 
 
 ### **[회원정보수정]**
-![Image](https://github.com/user-attachments/assets/899351c1-0218-427d-ad01-f43e9b9db868)
+![Image](https://github.com/user-attachments/assets/1c21f7d7-d455-49d1-93b0-63e586c1713f)
 <br/><br/>
 
 ### **[비밀번호 변경]**
-![Image](https://github.com/user-attachments/assets/a4c324c9-9387-42fb-bcda-9547266f3245)
+![Image](https://github.com/user-attachments/assets/adb7fb03-c27d-495c-959e-19d8826a757c)
 <br/><br/>
 </details>
 
