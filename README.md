@@ -4,17 +4,7 @@
 <p align="center">JSP와 Servlet 기반으로 구현된 동적 웹 프로젝트</p>
 <br/>
 
-</details>
-
 ## 📌 목차
-
-- [개요](#개요)
-- [기술 스택](#-기술-스택)
-- [프로젝트 설계](#-프로젝트-설계)
-- [실행 화면](#-실행-화면)
-- [PPT](#-ppt)
-- [개선사항](#-개선사항)
-
 - [개요](https://github.com/gonayoung/myrium#-개요)
 - [기술 스택](https://github.com/gonayoung/myrium#-기술-스택)
 - [프로젝트 설계](https://github.com/gonayoung/myrium#-프로젝트-설계)
